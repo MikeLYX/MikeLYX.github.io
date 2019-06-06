@@ -6,13 +6,8 @@ permalink: /about/
 
 这是李宇轩的个人博客
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+李宇轩，目前是中国人民大学大四学生，即将前往俄克拉荷马州立大学攻读工业工程博士学位，统计之都编辑部成员。热爱R语言，对R+HTML应用及自然语言处理有很浓厚的兴趣。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+![main_photo](https://github.com/MikeLYX/picture/blob/master/own%20picture/formal_photo.jpg)
 
-
-[jekyll-organization]: https://github.com/jekyll
+个人简历：
