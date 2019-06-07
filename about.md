@@ -12,4 +12,4 @@ permalink: /about/
 
 爱看书（从小喜欢），爱音乐（多听不多唱）、爱运动（玩和看都爱），很喜欢旅游（尤其一人游）。
 
-个人简历：
+个人简历：[https://mikelyx.github.io/resume.html](https://mikelyx.github.io/resume.html)
