@@ -1,0 +1,152 @@
+---
+title: "Li Yuxuan's Resume"
+author: Yuxuan Li
+date: "`r Sys.Date()`"
+output: 
+  pagedown::html_resume:
+    self_contained: True
+---
+
+
+
+Aside
+====================================
+
+![Li Yuxuan](https://github.com/MikeLYX/picture/blob/master/own%20picture/formal_photo.jpg?raw=true){width=60%}
+
+Contact info {#contact}
+------------------------------------
+
+- <i class="fa fa-envelope"></i> lyx2015201568@ruc.edu.cn
+- <i class="fa fa-github"></i> [github.com/MikeLYX](https://github.com/MikeLYX)
+- For more information, please contact me via email.
+
+Skills {#skills}
+------------------------------------
+
+- Skillful at programming software: Python programming
+
+- Skillful at statistics software: R, Matlab, Excel, SAS and SPSS
+
+- Proficient in database software: Sql, SQL and Sever
+
+- Skillful at Windows, Linux system and programming command
+
+Disclaimer {#disclaimer}
+------------------------------------
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+====================================
+
+Yuxuan Li {#title}
+------------------------------------
+
+### a fighter enjoying the life
+
+- A student now;  
+- The member of [Capital of Statistics](https://cosx.org/);  
+- Participant of the 10-12th [China-R Conference](https://china-r.org).
+
+
+Education {data-icon=graduation-cap}
+------------------------------------
+
+### Renmin University of China
+
+B.S. in economics statistics
+
+Beijing,China
+
+2015 - 2019
+
+Thesis: Using LSTM model generating stock review text
+
+
+Research Experience {data-icon=laptop}
+------------------------------------
+
+### Research of Economic Operation of Chinese Enterprises
+
+Undergraduate Research assistant, Department of statistics(Advisor: Linda Zhao)
+
+University of Pennsylvania
+
+2018/02 - 2018/12
+
+- Analyze industry category and county code of Chinese enterprises through text analysis and machine learning.
+- Apply raw data correction to establish text model using R, and match the enterprises according to the basic information.
+
+### Project: Spectral Clustering algoritm improvement
+
+Undergraduate research assistant, School of Statistics (Advisor: Yifan Sun)
+
+Renmin University of China
+
+2018/04 - 2018/09
+
+- Establish lasso regression model, cluster high-dimensional data by numerical simulation.
+- Modify regression model function and improve clustering efficiency using R and Matlab.
+
+### Project: A problem on shared bicycle use in Settle 
+
+member, School of Statistics (Advisor: Wei Xue)
+
+Renmin University of China
+
+2017/09 - 2018/01
+
+- Calculate the real-time vehicles through bicycle running records, and adjust bicycle stations according to map and text analysis by K-means clustering
+- Use Markov chain to calculate the shortcomings of bicycle scheduling and solve the vehicle routing problem by C-W algorithm.
+
+
+Internship {data-icon=suitcase}
+------------------------------------
+
+### Koala Credit Reference Service CO.,LTD
+
+Intern, Data model department 
+
+Beijing,China
+
+2018/06 - 2018/07
+
+- Use logistic regression to establish a credit model to predict the repayment rate of credit collectors with text analysis and machine learning algorithm according to the personal information of credit collectors.
+
+### Bear Club
+
+Research assistant
+
+Beijing,China
+
+2017/04 - 2018/06
+
+- Use statistical methods to analyze business problems, such as using multivariate statistical methods to analyze the daily life of contemporary college students.
+- Use text analysis to analyze the relations between characters in One of the Four Great Chinese Novels - A Dream of Red Mansions,etc.
+
+
+Conferences and Publications {data-icon=file}
+------------------------------------
+
+### The 12th China-R Conference
+
+[R + HTML application based on rmarkdown](https://github.com/MikeLYX/MikeLYX.github.io/blob/master/application of R+HTML.pdf) [The China-R Conference is the most influential R language community event in China. It brings together academic experts, industry elites and technological cafes. Participants from all walks of life have had full exchanges.]{style="position:absolute;left:calc(var(--main-width) + var(--sidebar-horizontal-padding));"}
+
+Beijing,China
+
+2019/05
+
+R is mainly used in the process of data analysis, but R+HTML application is less mentioned. the paper is based on knitr,rmarkdown and other R package tools, introducing its design ideas, development history and the specific development and application such as analysis reports, slides and websites.
+
+### Capital of Statistics 
+
+[discussion about bar graph](https://cosx.org/2017/10/discussion-about-bar-graph/) [The Capital of Statistics (COS) was established in May 2006 as a website and community to promote and apply statistical knowledge in China. The Capital of Statistics' website was originally founded by Xie Yihui and is now managed and maintained by many volunteers around the world.]{style="position:absolute;left:calc(var(--main-width) + var(--sidebar-horizontal-padding));"}
+
+Beijing,China
+
+2017/10/15
+
+We see "effective, simple, beautiful" as the standard of drawing bar graph, and contents in the article is the straight example of such saying.
