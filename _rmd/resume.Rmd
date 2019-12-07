@@ -78,15 +78,26 @@ Thesis: Using LSTM model generating stock review text
 Publications {data-icon=book}
 ------------------------------------
 
-- Yuxuan Li, Zhangyue Shi, and Chenang Liu, 2020, “*An ensemble-based temporal data augmentation approach for online quality monitoring in advanced manufacturing*”, in preparation, to be submitted to IEEE Transactions on Automation Science and Engineering (this work received the 2019 INFORMS QSR Data Challenge Award Finalist)
+### Journal Paper
 
+In Manufacturing and healthcare
+
+Oklahoma State University
+
+- Yuxuan Li, Zhangyue Shi, and Chenang Liu, 2020, “*An ensemble-based temporal data augmentation approach for online quality monitoring in advanced manufacturing*”, in preparation, to be submitted to IEEE Transactions on Automation Science and Engineering (this work received the 2019 INFORMS QSR Data Challenge Award Finalist)
 - Yuxuan Li, Vanosdol Joshua, Chenang Liu, and Ashish Ranjan, 2020, “*Advanced feature extraction and analysis for tumor treatment monitoring using ultrasonic images*”, in preparation, to be submitted to Nature Scientific Reports
 
 
-Presentations {data-icon=computer}
+Presentations {data-icon=book}
 ------------------------------------
 
 ### Conference Presentation
+
+QSR data chellenge
+
+2019 INFORMS Annual Conference,Seattle,WA
+
+2019/10/21
 
 - Data Augmentation for Rare Events in Multivariate Time Series, 2019, QSR Section, INFORMS Annual Conference, Seattle, WA
 
