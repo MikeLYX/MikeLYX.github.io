@@ -17,7 +17,7 @@ Aside
 Contact info {#contact}
 ------------------------------------
 
-- <i class="fa fa-envelope"></i> lyx2015201568@ruc.edu.cn
+- <i class="fa fa-envelope"></i> yuxuan.li@okstate.edu
 - <i class="fa fa-github"></i> [github.com/MikeLYX](https://github.com/MikeLYX)
 - For more information, please contact me via email.
 
@@ -48,12 +48,21 @@ Yuxuan Li {#title}
 ### a fighter enjoying the life
 
 - A student now;  
+- The member of [INFORMS](https://www.informs.org/);
 - The member of [Capital of Statistics](https://cosx.org/);  
 - Participant of the 10-12th [China-R Conference](https://china-r.org).
 
 
 Education {data-icon=graduation-cap}
 ------------------------------------
+
+### Oklahoma State University
+
+PhD in industrial engineering(Expected graduation: 2023)
+
+Stillwater, United States
+
+2019 - present
 
 ### Renmin University of China
 
@@ -66,12 +75,38 @@ Beijing,China
 Thesis: Using LSTM model generating stock review text
 
 
+Publications {data-icon=book}
+------------------------------------
+
+- Yuxuan Li, Zhangyue Shi, and Chenang Liu, 2020, “*An ensemble-based temporal data augmentation approach for online quality monitoring in advanced manufacturing*”, in preparation, to be submitted to IEEE Transactions on Automation Science and Engineering (this work received the 2019 INFORMS QSR Data Challenge Award Finalist)
+
+- Yuxuan Li, Vanosdol Joshua, Chenang Liu, and Ashish Ranjan, 2020, “*Advanced feature extraction and analysis for tumor treatment monitoring using ultrasonic images*”, in preparation, to be submitted to Nature Scientific Reports
+
+
+Presentations {data-icon=computer}
+------------------------------------
+
+### Conference Presentation
+
+- Data Augmentation for Rare Events in Multivariate Time Series, 2019, QSR Section, INFORMS Annual Conference, Seattle, WA
+
+
 Research Experience {data-icon=laptop}
 ------------------------------------
 
+### Research of Advanced Data Analytics For System Intelligence
+
+Research Assistant, Department of Industirial Engineering and Management
+
+Oklahoma State University
+
+2019/08 - present
+
+- Statistical modeling and quality control in manufacturing and health care
+
 ### Research of Economic Operation of Chinese Enterprises
 
-Undergraduate Research assistant, Department of statistics(Advisor: Linda Zhao)
+Undergraduate Research Assistant, Department of Statistics(Advisor: Linda Zhao)
 
 University of Pennsylvania
 
@@ -128,7 +163,7 @@ Beijing,China
 - Use text analysis to analyze the relations between characters in One of the Four Great Chinese Novels - A Dream of Red Mansions,etc.
 
 
-Conferences and Publications {data-icon=file}
+Undergraduate Conferences and Publications {data-icon=file}
 ------------------------------------
 
 ### The 12th China-R Conference
