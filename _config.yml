@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 小资生活铺
-email: lyx2015201568@ruc.edu.cn
+email: yuxuan.li@okstate.edu
 description: >- # this means to ignore newlines until "baseurl:"
   风又飘飘，雨又萧萧，红了樱桃，绿了芭蕉。            
   
