@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Be a better man"
+title:  "做个更好的人"
 date:   2019-12-07 12:50:00 -500
 categories: Daily
 ---

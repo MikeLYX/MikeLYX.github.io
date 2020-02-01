@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to blog!"
+title:  "新页诞生记!"
 date:   2019-06-07 00:36:00 +0800
 categories: blog start
 ---
