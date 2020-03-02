@@ -6,7 +6,7 @@ permalink: /about/
 
 <img align="right" width="150" height="210" src="https://github.com/MikeLYX/picture/blob/master/own%20picture/formal_photo.jpg?raw=true"/>
 
-李宇轩，目前在俄克拉荷马州立大学攻读工业工程博士学位，现为一年级研究生。
+李宇轩，目前在俄克拉荷马州立大学攻读工业工程博士学位。
 
 统计之都编辑部成员，热爱R语言，对R+HTML应用及自然语言处理有很浓厚的兴趣。
 
